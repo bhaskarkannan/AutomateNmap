@@ -1,2 +1,10 @@
 # AutomateNmap
-This tool help to automate the Nmap Scripts &amp; Commands
+This tool helps to automate the Nmap Scripts &amp; Commands
+
+Operating system:
+
+Kali linux/ Backrack 
+
+Installation Procedure:
+
+
