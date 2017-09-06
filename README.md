@@ -21,3 +21,8 @@ step 4: Welcome screen of the tool
 
 ![1](https://user-images.githubusercontent.com/26543120/30103708-1a9c04b2-9311-11e7-8492-6de422a23c02.JPG)
 
+step 5: type "help" to play with the tool
+
+![1](https://user-images.githubusercontent.com/26543120/30103846-7ec27f2a-9311-11e7-9e7e-c3c87a8017ed.JPG)
+
+
