@@ -1,5 +1,5 @@
 # AutomateNmap
-This tool helps to automate the Nmap Scripts &amp; Commands
+This tool helps to automate the Nmap Scripts &amp; Commands. You can add Nmap scripts according to your requirement in this tool. 
 
 Operating system =>  Kali linux/ Backrack 
 
