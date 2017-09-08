@@ -37,16 +37,6 @@ class fresh:
 			print colored ('Scan Has Been Completed , scan logs saved in /home/.autonmap-logs/ [+]' , 'green' , attrs=['bold'])
 
 
-		#elif option == "2":
-		 #   	scanner2 = os.system("sudo nmap -sS -O -oN /home/.nmapii-logs/basic/port_os" +str   	#(targetaddr))
-	#	    	print scanner2
-	#	    	print colored ('[+] Scan Has Been Completed , scan logs saved in /home/.nmapii-logs/ [+]' , 'green' , attrs=['bold'])
-		#elif option == "3":
-		 #   	scanner3 = os.system("sudo nmap -sS -sC" + str(targetaddr))
-		  #  	print scanner3
-		   # 	print colored ("Scan Has Been Completed", 'yellow' , attrs=['bold'])
-
-
 
 		elif option == "2":
 		    	scanner2 = os.system("sudo nmap -p 443 -oN /home/.autonmap-logs/SSL/heartbleed --script ssl-heartbleed.nse,ip-geolocation-geoplugin.nse "+str(targetaddr))
